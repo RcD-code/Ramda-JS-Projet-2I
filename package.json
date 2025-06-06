@@ -1,7 +1,10 @@
 {
+  "type": "module",
   "dependencies": {
     "csv-parser": "^3.2.0",
-    "fs-extra": "^11.3.0",
+    "fs-extra": "^11.1.1",
+    "ml-cart": "^2.0.0",
+    "ml-random-forest": "github:mljs/random-forest",
     "ramda": "^0.30.1"
   }
 }

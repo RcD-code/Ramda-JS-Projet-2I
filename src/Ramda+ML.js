@@ -1,7 +1,7 @@
 import fs from "fs-extra"; // Pour lire les fichiers JSON
 import * as R from "ramda";
 import { DecisionTreeClassifier } from "ml-cart"; // Arbre de décision
-import { RandomForestClassifier } from "../lib/mlrf/RandomForestClassifier.js"; // random forest n'a pas de module directement 
+import { RandomForestClassifier } from "../lib/ml/RandomForestClassifier.js"; // random forest n'a pas de module directement
 
 const SEUIL_MIN_OCCURRENCES = 12; // On garde uniquement les parties du corps et espèces fréquentes
 // sinon en dessous de 12 parties retrouvées les modèles mémorisent
