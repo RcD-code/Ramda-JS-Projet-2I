@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="700b1132-729d-4433-9cf0-fb6b7c0a57bf" name="Changes" comment="Commit Bones">
-      <change afterPath="$PROJECT_DIR$/src/CorrigeOs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreationArbre.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodeML.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Statistiques.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    <list default="true" id="700b1132-729d-4433-9cf0-fb6b7c0a57bf" name="Changes" comment="Commit Final-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/occurence.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/occurence.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/specimens.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/specimens.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/csv-parser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/csv-parser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/csv-parser/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/csv-parser/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/csv-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/csv-parser/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/csv-parser/bin/csv-parser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/csv-parser/bin/csv-parser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/csv-parser/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/csv-parser/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/csv-parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/csv-parser/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/csv-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/csv-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jointure.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +107,7 @@
       <workItem from="1747639050585" duration="30000" />
       <workItem from="1748437679912" duration="10475000" />
       <workItem from="1748524346242" duration="29313000" />
-      <workItem from="1748941345933" duration="16918000" />
+      <workItem from="1748941345933" duration="18511000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Bones">
       <option name="closed" value="true" />
@@ -144,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746881195611</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit Final-1">
+      <option name="closed" value="true" />
+      <created>1749009932796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749009932796</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1" />
     <MESSAGE value="Commit Bones" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Bones" />
+    <MESSAGE value="Commit Final-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Final-1" />
   </component>
 </project>
