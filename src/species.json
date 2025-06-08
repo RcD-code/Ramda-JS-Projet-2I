@@ -1,1 +1,3554 @@
-[]
+[
+    {
+        "nom": "Aardonyx celestae",
+        "classification": "Sauropoda",
+        "nombre_specimens": 5,
+        "age_min": 201.4,
+        "age_max": 192.9,
+        "os": {
+            "femur": 386,
+            "fibula": 36,
+            "humerus": 650.2,
+            "pubis": null,
+            "radius": 146.5,
+            "scapula": 773.6785714285714,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Abelisaurus comahuensis",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 387.7222222222222,
+            "fibula": 447,
+            "humerus": 208.83333333333334,
+            "pubis": null,
+            "radius": 58.25,
+            "scapula": 498.75,
+            "skull": 856
+        }
+    },
+    {
+        "nom": "Abrosaurus dongpoensis",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 170.9,
+        "age_max": 154.8,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Abydosaurus mcintoshi",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 100.5,
+        "age_max": 93.9,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 500
+        }
+    },
+    {
+        "nom": "Achillobator giganticus",
+        "classification": "Paraves",
+        "nombre_specimens": 3,
+        "age_min": 100.5,
+        "age_max": 83.6,
+        "os": {
+            "femur": 505,
+            "fibula": 147,
+            "humerus": 94.16666666666667,
+            "pubis": null,
+            "radius": 260,
+            "scapula": 64.4,
+            "skull": 190
+        }
+    },
+    {
+        "nom": "Acrocanthosaurus atokensis",
+        "classification": "Allosauroidea",
+        "nombre_specimens": 12,
+        "age_min": 119.57,
+        "age_max": 113.2,
+        "os": {
+            "femur": 740.5,
+            "fibula": 420.5,
+            "humerus": 212.5,
+            "pubis": null,
+            "radius": 127.5,
+            "scapula": 1030,
+            "skull": 1160
+        }
+    },
+    {
+        "nom": "Aerosteon riocoloradensis",
+        "classification": "Allosauroidea",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 866.9166666666666,
+            "fibula": 359.5,
+            "humerus": 341.6875,
+            "pubis": null,
+            "radius": 128.165,
+            "scapula": 570,
+            "skull": 1345
+        }
+    },
+    {
+        "nom": "Afrovenator abakensis",
+        "classification": "Megalosauroidea",
+        "nombre_specimens": 4,
+        "age_min": 161.5,
+        "age_max": 143.1,
+        "os": {
+            "femur": 760,
+            "fibula": null,
+            "humerus": 400,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": 840
+        }
+    },
+    {
+        "nom": "Agilisaurus louderbacki",
+        "classification": "Ornithischia",
+        "nombre_specimens": 11,
+        "age_min": 170.9,
+        "age_max": 154.8,
+        "os": {
+            "femur": 111.5,
+            "fibula": 99.5,
+            "humerus": 54.1,
+            "pubis": null,
+            "radius": 46.3,
+            "scapula": 37.833333333333336,
+            "skull": 110
+        }
+    },
+    {
+        "nom": "Agujaceratops mariscalensis",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 6,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 304,
+            "fibula": 179,
+            "humerus": 239.5,
+            "pubis": null,
+            "radius": 158.5,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Alamosaurus sanjuanensis",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 126,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Albertonykus borealis",
+        "classification": "Maniraptora",
+        "nombre_specimens": 2,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Albertosaurus sarcophagus",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 9,
+        "age_min": 72.2,
+        "age_max": 72.2,
+        "os": {
+            "femur": 940,
+            "fibula": 875,
+            "humerus": 303,
+            "pubis": null,
+            "radius": 136,
+            "scapula": 740,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Alectrosaurus olseni",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 438,
+            "fibula": 591.5,
+            "humerus": 232.51093749999998,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Aletopelta coombsi",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 6,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 535,
+            "fibula": 315,
+            "humerus": 279.56666666666666,
+            "pubis": null,
+            "radius": 193.5,
+            "scapula": 317.73809523809524,
+            "skull": 454.5
+        }
+    },
+    {
+        "nom": "Alioramus remotus",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 3,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 560,
+            "fibula": 591.5,
+            "humerus": 232.51093749999998,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 667.5
+        }
+    },
+    {
+        "nom": "Allosaurus fragilis",
+        "classification": "Allosauroidea",
+        "nombre_specimens": 11,
+        "age_min": 152.21,
+        "age_max": 145.06,
+        "os": {
+            "femur": 954.5,
+            "fibula": 359.5,
+            "humerus": 348.25,
+            "pubis": null,
+            "radius": 121,
+            "scapula": 413.5,
+            "skull": 1345
+        }
+    },
+    {
+        "nom": "Alvarezsaurus calvoi",
+        "classification": "Maniraptoriformes",
+        "nombre_specimens": 1,
+        "age_min": 85.7,
+        "age_max": 83.6,
+        "os": {
+            "femur": 319,
+            "fibula": 401.5,
+            "humerus": 202.5,
+            "pubis": null,
+            "radius": 198,
+            "scapula": 112,
+            "skull": 64.16666666666667
+        }
+    },
+    {
+        "nom": "Alxasaurus elesitaiensis",
+        "classification": "Therizinosauria",
+        "nombre_specimens": 5,
+        "age_min": 121.4,
+        "age_max": 113.2,
+        "os": {
+            "femur": 555,
+            "fibula": 350,
+            "humerus": 375,
+            "pubis": null,
+            "radius": 245,
+            "scapula": 520,
+            "skull": 258
+        }
+    },
+    {
+        "nom": "Amargasaurus cazaui",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 7,
+        "age_min": 125.77,
+        "age_max": 121.4,
+        "os": {
+            "femur": 790,
+            "fibula": 640,
+            "humerus": 550,
+            "pubis": 1190,
+            "radius": 470,
+            "scapula": 1180,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Amphicoelias brontodiplodocus",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 9,
+        "age_min": 157.9,
+        "age_max": 152.21,
+        "os": {
+            "femur": 1415,
+            "fibula": 1095,
+            "humerus": 905,
+            "pubis": 1190,
+            "radius": 715,
+            "scapula": 830,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Anchiornis huxleyi",
+        "classification": "Paraves",
+        "nombre_specimens": 10,
+        "age_min": 168.2,
+        "age_max": 152.21,
+        "os": {
+            "femur": 43.2,
+            "fibula": 147,
+            "humerus": 41.5,
+            "pubis": null,
+            "radius": 147.33333333333334,
+            "scapula": 25.8,
+            "skull": 190
+        }
+    },
+    {
+        "nom": "Andesaurus delgadoi",
+        "classification": "Macronaria",
+        "nombre_specimens": 2,
+        "age_min": 100.5,
+        "age_max": 93.9,
+        "os": {
+            "femur": 1550,
+            "fibula": 663.25,
+            "humerus": 1350,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Angolatitan adamastor",
+        "classification": "Macronaria",
+        "nombre_specimens": 4,
+        "age_min": 89.8,
+        "age_max": 85.7,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 766,
+            "pubis": 671.1567777777777,
+            "radius": 427.5,
+            "scapula": 1050,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Aniksosaurus darwini",
+        "classification": "Maniraptora",
+        "nombre_specimens": 12,
+        "age_min": 100.5,
+        "age_max": 89.8,
+        "os": {
+            "femur": 122.3,
+            "fibula": 124.5,
+            "humerus": 62.5,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Animantarx ramaljonesi",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 4,
+        "age_min": 121.4,
+        "age_max": 100.5,
+        "os": {
+            "femur": 415,
+            "fibula": 267.72222222222223,
+            "humerus": 298,
+            "pubis": null,
+            "radius": 193.5,
+            "scapula": 240,
+            "skull": 454.5
+        }
+    },
+    {
+        "nom": "Ankylosauria",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 22,
+        "age_min": 83.6,
+        "age_max": 93.9,
+        "os": {
+            "femur": 273.2857142857143,
+            "fibula": 120,
+            "humerus": 205,
+            "pubis": null,
+            "radius": 157.5,
+            "scapula": 197.5,
+            "skull": 454.5
+        }
+    },
+    {
+        "nom": "Ankylosauridae",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 6,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 433.5982142857143,
+            "fibula": 267.72222222222223,
+            "humerus": 186.5,
+            "pubis": null,
+            "radius": 111.5,
+            "scapula": 400,
+            "skull": 467.5
+        }
+    },
+    {
+        "nom": "Ankylosaurus magniventris",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 11,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 516,
+            "fibula": 341.3333333333333,
+            "humerus": 439.4,
+            "pubis": null,
+            "radius": 193.5,
+            "scapula": 430,
+            "skull": 637.5
+        }
+    },
+    {
+        "nom": "Anserimimus planinychus",
+        "classification": "Ornithomimosauria",
+        "nombre_specimens": 5,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 289,
+            "fibula": 228,
+            "humerus": 260,
+            "pubis": null,
+            "radius": 208,
+            "scapula": 522.1333333333333,
+            "skull": 257.1
+        }
+    },
+    {
+        "nom": "Antarctosaurus",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 89.8,
+        "age_max": 83.6,
+        "os": {
+            "femur": 1555,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Antetonitrus ingenipes",
+        "classification": "Sauropoda",
+        "nombre_specimens": 5,
+        "age_min": 201.4,
+        "age_max": 192.9,
+        "os": {
+            "femur": 794,
+            "fibula": 467.57142857142856,
+            "humerus": 717,
+            "pubis": null,
+            "radius": 376,
+            "scapula": 773.6785714285714,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Apatosaurinae",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 1,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 2489.2,
+            "fibula": 729.6666666666667,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Apatosaurus ajax",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 2,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 1836,
+            "fibula": 729.6666666666667,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Apatosaurus louisae",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 7,
+        "age_min": 149.2,
+        "age_max": 145.06,
+        "os": {
+            "femur": 1790,
+            "fibula": 729.6666666666667,
+            "humerus": 1150,
+            "pubis": 1190,
+            "radius": 800,
+            "scapula": 1640,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Appalachiosaurus montgomeriensis",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 5,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 770.35,
+            "fibula": 678,
+            "humerus": 232.51093749999998,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Aragosaurus ischiaticus",
+        "classification": "Macronaria",
+        "nombre_specimens": 2,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 905,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 737.5,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Archaeoceratops oshimai",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 1,
+        "age_min": 113.2,
+        "age_max": 110.1,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 145
+        }
+    },
+    {
+        "nom": "Archaeornithoides deinosauriscus",
+        "classification": "Maniraptoriformes",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 319,
+            "fibula": 401.5,
+            "humerus": 202.5,
+            "pubis": null,
+            "radius": 198,
+            "scapula": 367,
+            "skull": 50
+        }
+    },
+    {
+        "nom": "Archaeornithomimus asiaticus",
+        "classification": "Ornithomimosauria",
+        "nombre_specimens": 13,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 173.5,
+            "fibula": 294,
+            "humerus": 141.575,
+            "pubis": null,
+            "radius": 90.975,
+            "scapula": 73.4,
+            "skull": 257.1
+        }
+    },
+    {
+        "nom": "Arenysaurus ardevoli",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 5,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 711,
+            "fibula": 418.5,
+            "humerus": 300,
+            "pubis": null,
+            "radius": 169.83333333333334,
+            "scapula": 525,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Argentinosaurus huinculensis",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 100.5,
+        "age_max": 89.8,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Atacamatitan chilensis",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 100.5,
+        "age_max": 66,
+        "os": {
+            "femur": 612.5,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Atlasaurus imelakei",
+        "classification": "Macronaria",
+        "nombre_specimens": 7,
+        "age_min": 168.2,
+        "age_max": 165.3,
+        "os": {
+            "femur": 1316.5,
+            "fibula": 1093,
+            "humerus": 1269.2,
+            "pubis": 671.1567777777777,
+            "radius": 1214.4,
+            "scapula": 948.8214285714286,
+            "skull": 690
+        }
+    },
+    {
+        "nom": "Atrociraptor marshalli",
+        "classification": "Maniraptora",
+        "nombre_specimens": 1,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 210
+        }
+    },
+    {
+        "nom": "Auroraceratops rugosus",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 1,
+        "age_min": 113.2,
+        "age_max": 110.1,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 197
+        }
+    },
+    {
+        "nom": "Australovenator wintonensis",
+        "classification": "Allosauroidea",
+        "nombre_specimens": 7,
+        "age_min": 100.5,
+        "age_max": 89.8,
+        "os": {
+            "femur": 326.5,
+            "fibula": 298.5,
+            "humerus": 341.6875,
+            "pubis": null,
+            "radius": 117.16,
+            "scapula": 614.625,
+            "skull": 1345
+        }
+    },
+    {
+        "nom": "Austroraptor cabazai",
+        "classification": "Maniraptora",
+        "nombre_specimens": 3,
+        "age_min": 83.6,
+        "age_max": 66,
+        "os": {
+            "femur": 560,
+            "fibula": 290.7,
+            "humerus": 257.6,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Avaceratops lammersi",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 7,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 414,
+            "fibula": 337.3,
+            "humerus": 285,
+            "pubis": null,
+            "radius": 198,
+            "scapula": 237.5,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Avialae",
+        "classification": "Avialae",
+        "nombre_specimens": 1,
+        "age_min": 132.6,
+        "age_max": 121.4,
+        "os": {
+            "femur": null,
+            "fibula": null,
+            "humerus": 42.4,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Avimimus portentosus",
+        "classification": "Maniraptora",
+        "nombre_specimens": 2,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 50
+        }
+    },
+    {
+        "nom": "Avisaurus archibaldi",
+        "classification": "Avialae",
+        "nombre_specimens": 1,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": null,
+            "fibula": null,
+            "humerus": 42.4,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Bagaceratops rozhdestvenskyi",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 92.5
+        }
+    },
+    {
+        "nom": "Balaur bondoc",
+        "classification": "Maniraptora",
+        "nombre_specimens": 2,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 117,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Bambiraptor feinbergi",
+        "classification": "Maniraptora",
+        "nombre_specimens": 13,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 153,
+            "fibula": 290.7,
+            "humerus": 131.66666666666666,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 87,
+            "skull": 125
+        }
+    },
+    {
+        "nom": "Banji long",
+        "classification": "Maniraptoriformes",
+        "nombre_specimens": 1,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 319,
+            "fibula": 401.5,
+            "humerus": 202.5,
+            "pubis": null,
+            "radius": 198,
+            "scapula": 367,
+            "skull": 65
+        }
+    },
+    {
+        "nom": "Barapasaurus tagorei",
+        "classification": "Macronaria",
+        "nombre_specimens": 2,
+        "age_min": 199.5,
+        "age_max": 184.2,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 690,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Barosaurus lentus",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 10,
+        "age_min": 149.2,
+        "age_max": 145.06,
+        "os": {
+            "femur": 905.5,
+            "fibula": 495.3333333333333,
+            "humerus": 541.6666666666666,
+            "pubis": 1190,
+            "radius": 418.6666666666667,
+            "scapula": 717.5,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Baryonyx walkeri",
+        "classification": "Tetanurae",
+        "nombre_specimens": 4,
+        "age_min": 125.77,
+        "age_max": 121.4,
+        "os": {
+            "femur": 454,
+            "fibula": 467,
+            "humerus": 483,
+            "pubis": null,
+            "radius": 225,
+            "scapula": 299,
+            "skull": 915
+        }
+    },
+    {
+        "nom": "Beishanlong grandis",
+        "classification": "Maniraptoriformes",
+        "nombre_specimens": 9,
+        "age_min": 121.4,
+        "age_max": 113.2,
+        "os": {
+            "femur": 660,
+            "fibula": 622,
+            "humerus": 465,
+            "pubis": null,
+            "radius": 338,
+            "scapula": 622,
+            "skull": 64.16666666666667
+        }
+    },
+    {
+        "nom": "Bellusaurus sui",
+        "classification": "Macronaria",
+        "nombre_specimens": 7,
+        "age_min": 161.5,
+        "age_max": 154.8,
+        "os": {
+            "femur": 550,
+            "fibula": 663.25,
+            "humerus": 355,
+            "pubis": 671.1567777777777,
+            "radius": 255,
+            "scapula": 480,
+            "skull": 178
+        }
+    },
+    {
+        "nom": "Berberosaurus liassicus",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 2,
+        "age_min": 192.9,
+        "age_max": 174.7,
+        "os": {
+            "femur": 505,
+            "fibula": 447,
+            "humerus": 208.83333333333334,
+            "pubis": null,
+            "radius": 58.25,
+            "scapula": 498.75,
+            "skull": 596.75
+        }
+    },
+    {
+        "nom": "Bistahieversor sealeyi",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 712,
+            "fibula": 591.5,
+            "humerus": 232.51093749999998,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 1070
+        }
+    },
+    {
+        "nom": "Blikanasaurus cromptoni",
+        "classification": "Sauropoda",
+        "nombre_specimens": 1,
+        "age_min": 227.3,
+        "age_max": 201.4,
+        "os": {
+            "femur": 758.7878787878788,
+            "fibula": 467.57142857142856,
+            "humerus": 650.2,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 773.6785714285714,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Borogovia gracilicrus",
+        "classification": "Paraves",
+        "nombre_specimens": 1,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 211.175,
+            "fibula": 147,
+            "humerus": 94.16666666666667,
+            "pubis": null,
+            "radius": 147.33333333333334,
+            "scapula": 64.4,
+            "skull": 190
+        }
+    },
+    {
+        "nom": "Brachiosaurus altithorax",
+        "classification": "Macronaria",
+        "nombre_specimens": 7,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 2200,
+            "fibula": 663.25,
+            "humerus": 1566.6666666666667,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 2190,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Brachylophosaurus canadensis",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 5,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 772.2857142857143,
+            "humerus": 595.5,
+            "pubis": null,
+            "radius": 667,
+            "scapula": 507.7142857142857,
+            "skull": 815
+        }
+    },
+    {
+        "nom": "Brontomerus mcintoshi",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 121.4,
+        "age_max": 100.5,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Brontosaurus excelsus",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 5,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 1127.5,
+            "fibula": 1130,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Brontosaurus parvus",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 3,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 1282.1411111111113,
+            "fibula": 729.6666666666667,
+            "humerus": 1100,
+            "pubis": 1190,
+            "radius": 441,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Brontosaurus yahnahpin",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 2,
+        "age_min": 152.21,
+        "age_max": 145.06,
+        "os": {
+            "femur": 1598,
+            "fibula": 729.6666666666667,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Buitreraptor gonzalezorum",
+        "classification": "Paraves",
+        "nombre_specimens": 10,
+        "age_min": 100.5,
+        "age_max": 93.9,
+        "os": {
+            "femur": 146.5,
+            "fibula": 127,
+            "humerus": 135,
+            "pubis": null,
+            "radius": 95,
+            "scapula": 103,
+            "skull": 190
+        }
+    },
+    {
+        "nom": "Callovosaurus leedsi",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 1,
+        "age_min": 165.3,
+        "age_max": 161.5,
+        "os": {
+            "femur": 280,
+            "fibula": 418.5,
+            "humerus": 235.03125,
+            "pubis": null,
+            "radius": 169.83333333333334,
+            "scapula": 425.72916666666663,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Camarasaurus",
+        "classification": "Macronaria",
+        "nombre_specimens": 3,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 770,
+            "pubis": 671.1567777777777,
+            "radius": 550,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Camarasaurus grandis",
+        "classification": "Macronaria",
+        "nombre_specimens": 5,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 1050,
+            "fibula": 663.25,
+            "humerus": 864,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 864,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Camarasaurus supremus",
+        "classification": "Macronaria",
+        "nombre_specimens": 8,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 1270,
+            "fibula": 663.25,
+            "humerus": 1135,
+            "pubis": 980,
+            "radius": 643.4857142857143,
+            "scapula": 1317.5,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Camptosaurus dispar",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 25,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 471.6666666666667,
+            "fibula": 207,
+            "humerus": 300,
+            "pubis": null,
+            "radius": 188.5,
+            "scapula": 242.66666666666666,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Carnotaurus sastrei",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 9,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 387.7222222222222,
+            "fibula": 447,
+            "humerus": 284.5,
+            "pubis": null,
+            "radius": 76.5,
+            "scapula": 902.5,
+            "skull": 596
+        }
+    },
+    {
+        "nom": "Cathartesaura anaerobica",
+        "classification": "Macronaria",
+        "nombre_specimens": 2,
+        "age_min": 100.5,
+        "age_max": 89.8,
+        "os": {
+            "femur": 1380,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 420,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Caudipteryx dongi",
+        "classification": "Maniraptoriformes",
+        "nombre_specimens": 7,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 149,
+            "fibula": 181,
+            "humerus": 73,
+            "pubis": null,
+            "radius": 58,
+            "scapula": 367,
+            "skull": 64.16666666666667
+        }
+    },
+    {
+        "nom": "Caudipteryx zoui",
+        "classification": "Maniraptoriformes",
+        "nombre_specimens": 8,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 148,
+            "fibula": 401.5,
+            "humerus": 69.5,
+            "pubis": null,
+            "radius": 198,
+            "scapula": 367,
+            "skull": 77.5
+        }
+    },
+    {
+        "nom": "Cedarpelta bilbeyhallorum",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 1,
+        "age_min": 121.4,
+        "age_max": 100.5,
+        "os": {
+            "femur": 433.5982142857143,
+            "fibula": 267.72222222222223,
+            "humerus": 279.56666666666666,
+            "pubis": null,
+            "radius": 193.5,
+            "scapula": 317.73809523809524,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Centrosaurinae",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 3,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 337,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Centrosaurus apertus",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 3,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 800,
+            "fibula": 460,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Cerasinops hodgskissi",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 9,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 352,
+            "fibula": 261.5,
+            "humerus": 260.3,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 274,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Ceratonykus oculatus",
+        "classification": "Coelurosauria",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 151.07625000000002,
+            "fibula": 237.45,
+            "humerus": 85.41875,
+            "pubis": null,
+            "radius": 37.1,
+            "scapula": 35.55,
+            "skull": 60
+        }
+    },
+    {
+        "nom": "Ceratopsia",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 5,
+        "age_min": 83.6,
+        "age_max": 66,
+        "os": {
+            "femur": 95,
+            "fibula": 337.3,
+            "humerus": 86,
+            "pubis": null,
+            "radius": 60,
+            "scapula": 90,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Ceratosaurus",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 1,
+        "age_min": 152.21,
+        "age_max": 149.2,
+        "os": {
+            "femur": 647,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Ceratosaurus nasicornis",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 12,
+        "age_min": 149.2,
+        "age_max": 145.06,
+        "os": {
+            "femur": 425.8,
+            "fibula": 293,
+            "humerus": 176,
+            "pubis": null,
+            "radius": 150,
+            "scapula": 256.625,
+            "skull": 625
+        }
+    },
+    {
+        "nom": "Cetiosaurus oxoniensis",
+        "classification": "Sauropoda",
+        "nombre_specimens": 10,
+        "age_min": 168.6,
+        "age_max": 168.2,
+        "os": {
+            "femur": 1149,
+            "fibula": 622.5,
+            "humerus": 916.25,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 776.25,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Changchunsaurus parvus",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 2,
+        "age_min": 121.4,
+        "age_max": 100.5,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 138,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 83,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Chaoyangsaurus youngi",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 1,
+        "age_min": 152.21,
+        "age_max": 132.6,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 140
+        }
+    },
+    {
+        "nom": "Chasmosaurus belli",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 6,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 749.3,
+            "fibula": 482.6,
+            "humerus": 508,
+            "pubis": null,
+            "radius": 317.5,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Chasmosaurus russelli",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 546.1,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Chilantaisaurus tashuikouensis",
+        "classification": "Allosauroidea",
+        "nombre_specimens": 3,
+        "age_min": 93.9,
+        "age_max": 89.8,
+        "os": {
+            "femur": 1190,
+            "fibula": 359.5,
+            "humerus": 580,
+            "pubis": null,
+            "radius": 128.165,
+            "scapula": 614.625,
+            "skull": 1345
+        }
+    },
+    {
+        "nom": "Chubutisaurus insignis",
+        "classification": "Macronaria",
+        "nombre_specimens": 5,
+        "age_min": 119.57,
+        "age_max": 110.1,
+        "os": {
+            "femur": 991,
+            "fibula": 663.25,
+            "humerus": 842.5,
+            "pubis": 671.1567777777777,
+            "radius": 487.5,
+            "scapula": 757.5,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Chungkingosaurus jiangbeiensis",
+        "classification": "Stegosauria",
+        "nombre_specimens": 4,
+        "age_min": 168.2,
+        "age_max": 161.5,
+        "os": {
+            "femur": 440,
+            "fibula": 206,
+            "humerus": 65,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Coelophysidae",
+        "classification": "Coelophysoidea",
+        "nombre_specimens": 3,
+        "age_min": 227.3,
+        "age_max": 205.7,
+        "os": {
+            "femur": 240,
+            "fibula": null,
+            "humerus": null,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Coelophysis",
+        "classification": "Coelophysoidea",
+        "nombre_specimens": 1,
+        "age_min": 227.3,
+        "age_max": 205.7,
+        "os": {
+            "femur": 245,
+            "fibula": null,
+            "humerus": null,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Coeluridae",
+        "classification": "Coelurosauria",
+        "nombre_specimens": 3,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 315,
+            "fibula": 350,
+            "humerus": 85.41875,
+            "pubis": null,
+            "radius": 37.1,
+            "scapula": 35.55,
+            "skull": 101.75
+        }
+    },
+    {
+        "nom": "Coelurus fragilis",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 5,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 210,
+            "fibula": 591.5,
+            "humerus": 119,
+            "pubis": null,
+            "radius": 81,
+            "scapula": 552.375,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Compsognathus longipes",
+        "classification": "Coelurosauria",
+        "nombre_specimens": 11,
+        "age_min": 152.21,
+        "age_max": 149.2,
+        "os": {
+            "femur": 108.8,
+            "fibula": 124.9,
+            "humerus": 31.674999999999997,
+            "pubis": null,
+            "radius": 41,
+            "scapula": 29.1,
+            "skull": 100
+        }
+    },
+    {
+        "nom": "Concavenator corcovatus",
+        "classification": "Allosauroidea",
+        "nombre_specimens": 5,
+        "age_min": 125.77,
+        "age_max": 121.4,
+        "os": {
+            "femur": 560,
+            "fibula": 359.5,
+            "humerus": 226,
+            "pubis": null,
+            "radius": 147,
+            "scapula": 445,
+            "skull": 1345
+        }
+    },
+    {
+        "nom": "Conchoraptor gracilis",
+        "classification": "Maniraptora",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 99
+        }
+    },
+    {
+        "nom": "Corythosaurus casuarius",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 5,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 605,
+            "fibula": 950,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 545,
+            "skull": 772.5
+        }
+    },
+    {
+        "nom": "Daspletosaurus torosus",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 9,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 798.3333333333334,
+            "fibula": 591.5,
+            "humerus": 357,
+            "pubis": null,
+            "radius": 171,
+            "scapula": 772,
+            "skull": 1040
+        }
+    },
+    {
+        "nom": "Deinocheirus mirificus",
+        "classification": "Ornithomimosauria",
+        "nombre_specimens": 5,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 281.875,
+            "fibula": 294,
+            "humerus": 938,
+            "pubis": null,
+            "radius": 630,
+            "scapula": 1190,
+            "skull": 257.1
+        }
+    },
+    {
+        "nom": "Deinonychus antirrhopus",
+        "classification": "Maniraptora",
+        "nombre_specimens": 11,
+        "age_min": 121.4,
+        "age_max": 110.1,
+        "os": {
+            "femur": 326,
+            "fibula": 297,
+            "humerus": 132.55,
+            "pubis": null,
+            "radius": 96.075,
+            "scapula": 190,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Deltadromeus agilis",
+        "classification": "Averostra",
+        "nombre_specimens": 3,
+        "age_min": 100.5,
+        "age_max": 93.9,
+        "os": {
+            "femur": 396.5,
+            "fibula": null,
+            "humerus": 175,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Demandasaurus darwini",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 1,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 607.5,
+            "fibula": 729.6666666666667,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Diabloceratops eatoni",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 620
+        }
+    },
+    {
+        "nom": "Dicraeosaurus sattleri",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 2,
+        "age_min": 149.2,
+        "age_max": 143.1,
+        "os": {
+            "femur": 990,
+            "fibula": 729.6666666666667,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Dilong paradoxus",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 9,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 181,
+            "fibula": 196,
+            "humerus": 96,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 77.5,
+            "skull": 162
+        }
+    },
+    {
+        "nom": "Diplodocus carnegii",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 6,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 911.25,
+            "fibula": 461,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 722,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Diplodocus longus",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 25,
+        "age_min": 149.2,
+        "age_max": 145.06,
+        "os": {
+            "femur": 997.1666666666666,
+            "fibula": 830,
+            "humerus": 620.7,
+            "pubis": 1190,
+            "radius": 465.3333333333333,
+            "scapula": 888.6666666666666,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Draconyx loureiroi",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 1,
+        "age_min": 149.2,
+        "age_max": 145.06,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 772.2857142857143,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Dromaeosaurus albertensis",
+        "classification": "Maniraptora",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 240
+        }
+    },
+    {
+        "nom": "Dromiceiomimus brevitertius",
+        "classification": "Ornithomimosauria",
+        "nombre_specimens": 4,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 294,
+            "fibula": 294,
+            "humerus": 408.39375,
+            "pubis": null,
+            "radius": 286.49375,
+            "scapula": 522.1333333333333,
+            "skull": 257.1
+        }
+    },
+    {
+        "nom": "Drusilasaura deseadensis",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 100.5,
+        "age_max": 89.8,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 1430,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Dryosaurus altus",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 4,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 200.5,
+            "fibula": 418.5,
+            "humerus": 190,
+            "pubis": null,
+            "radius": 150,
+            "scapula": 425.72916666666663,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Dryosaurus elderae",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 2,
+        "age_min": 149.2,
+        "age_max": 145.06,
+        "os": {
+            "femur": 453.5958333333333,
+            "fibula": 418.5,
+            "humerus": 126.5,
+            "pubis": null,
+            "radius": 169.83333333333334,
+            "scapula": 425.72916666666663,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Dryptosaurus",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 781,
+            "fibula": 591.5,
+            "humerus": 232.51093749999998,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Dryptosaurus aquilunguis",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 4,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 533.4,
+            "fibula": 528.5,
+            "humerus": 220.66250000000002,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Dubreuillosaurus valesdunensis",
+        "classification": "Megalosauroidea",
+        "nombre_specimens": 2,
+        "age_min": 168.2,
+        "age_max": 165.3,
+        "os": {
+            "femur": 450,
+            "fibula": null,
+            "humerus": 400,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": 490
+        }
+    },
+    {
+        "nom": "Dyoplosaurus acutosquameus",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 4,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 562,
+            "fibula": 360,
+            "humerus": 279.56666666666666,
+            "pubis": null,
+            "radius": 240,
+            "scapula": 317.73809523809524,
+            "skull": 287
+        }
+    },
+    {
+        "nom": "Dysalotosaurus lettowvorbecki",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 21,
+        "age_min": 152.21,
+        "age_max": 149.2,
+        "os": {
+            "femur": 192.6,
+            "fibula": 418.5,
+            "humerus": 117.5,
+            "pubis": null,
+            "radius": 105,
+            "scapula": 425.72916666666663,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Dystrophaeus viaemalae",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 3,
+        "age_min": 157.9,
+        "age_max": 154.8,
+        "os": {
+            "femur": 1282.1411111111113,
+            "fibula": 729.6666666666667,
+            "humerus": 421.5,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 680,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Edmontosaurus",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 8,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 1150,
+            "fibula": 970,
+            "humerus": 432.5,
+            "pubis": null,
+            "radius": 397.5,
+            "scapula": 560,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Edmontosaurus annectens",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 8,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 780,
+            "fibula": 820,
+            "humerus": 501,
+            "pubis": null,
+            "radius": 280,
+            "scapula": 505,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Efraasia minor",
+        "classification": "Sauropoda",
+        "nombre_specimens": 11,
+        "age_min": 215.38,
+        "age_max": 211.18,
+        "os": {
+            "femur": 124,
+            "fibula": 114,
+            "humerus": 112.33333333333333,
+            "pubis": null,
+            "radius": 50.5,
+            "scapula": 59,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Ekrixinatosaurus novasi",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 3,
+        "age_min": 100.5,
+        "age_max": 93.9,
+        "os": {
+            "femur": 770,
+            "fibula": 447,
+            "humerus": 208.83333333333334,
+            "pubis": null,
+            "radius": 58.25,
+            "scapula": 498.75,
+            "skull": 830
+        }
+    },
+    {
+        "nom": "Elaphrosaurus bambergi",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 5,
+        "age_min": 152.21,
+        "age_max": 149.2,
+        "os": {
+            "femur": 401.3333333333333,
+            "fibula": 447,
+            "humerus": 262,
+            "pubis": null,
+            "radius": 58.25,
+            "scapula": 498.75,
+            "skull": 596.75
+        }
+    },
+    {
+        "nom": "Elmisaurus",
+        "classification": "Maniraptora",
+        "nombre_specimens": 2,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 285,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Elopteryx nopcsai",
+        "classification": "Paraves",
+        "nombre_specimens": 1,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 150,
+            "fibula": 147,
+            "humerus": 94.16666666666667,
+            "pubis": null,
+            "radius": 147.33333333333334,
+            "scapula": 64.4,
+            "skull": 190
+        }
+    },
+    {
+        "nom": "Eocursor parvus",
+        "classification": "Ornithischia",
+        "nombre_specimens": 8,
+        "age_min": 201.4,
+        "age_max": 192.9,
+        "os": {
+            "femur": 59.35,
+            "fibula": 57.5,
+            "humerus": 36.35,
+            "pubis": null,
+            "radius": 42,
+            "scapula": 41,
+            "skull": 85.83333333333333
+        }
+    },
+    {
+        "nom": "Eolambia caroljonesa",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 9,
+        "age_min": 100.5,
+        "age_max": 93.9,
+        "os": {
+            "femur": 388.8888888888889,
+            "fibula": 772.2857142857143,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Eotyrannus lengi",
+        "classification": "Avetheropoda",
+        "nombre_specimens": 5,
+        "age_min": 132.6,
+        "age_max": 121.4,
+        "os": {
+            "femur": null,
+            "fibula": 350,
+            "humerus": 235,
+            "pubis": null,
+            "radius": null,
+            "scapula": 160,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Epachthosaurus sciuttoi",
+        "classification": "Macronaria",
+        "nombre_specimens": 6,
+        "age_min": 100.5,
+        "age_max": 89.8,
+        "os": {
+            "femur": 662.5,
+            "fibula": 403.75,
+            "humerus": 536.25,
+            "pubis": 671.1567777777777,
+            "radius": 310,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Equijubus normani",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 1,
+        "age_min": 113.2,
+        "age_max": 110.1,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 772.2857142857143,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 570
+        }
+    },
+    {
+        "nom": "Erketu ellisoni",
+        "classification": "Sauropoda",
+        "nombre_specimens": 2,
+        "age_min": 100.5,
+        "age_max": 83.6,
+        "os": {
+            "femur": 758.7878787878788,
+            "fibula": 750,
+            "humerus": 650.2,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 773.6785714285714,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Erliansaurus bellamanus",
+        "classification": "Therizinosauria",
+        "nombre_specimens": 7,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 412,
+            "fibula": 350,
+            "humerus": 276,
+            "pubis": null,
+            "radius": 220,
+            "scapula": 227,
+            "skull": 258
+        }
+    },
+    {
+        "nom": "Erlikosaurus andrewsi",
+        "classification": "Therizinosauria",
+        "nombre_specimens": 2,
+        "age_min": 100.5,
+        "age_max": 83.6,
+        "os": {
+            "femur": 483.5,
+            "fibula": 350,
+            "humerus": 300,
+            "pubis": null,
+            "radius": 216.33333333333334,
+            "scapula": 336.3333333333333,
+            "skull": 258
+        }
+    },
+    {
+        "nom": "Euhelopus zdanskyi",
+        "classification": "Sauropoda",
+        "nombre_specimens": 5,
+        "age_min": 143.1,
+        "age_max": 132.6,
+        "os": {
+            "femur": 1088,
+            "fibula": 740,
+            "humerus": 482.6666666666667,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 1200,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Europasaurus holgeri",
+        "classification": "Macronaria",
+        "nombre_specimens": 15,
+        "age_min": 152.21,
+        "age_max": 149.2,
+        "os": {
+            "femur": 335.8333333333333,
+            "fibula": 157,
+            "humerus": 350,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Eustreptospondylus oxoniensis",
+        "classification": "Tetanurae",
+        "nombre_specimens": 6,
+        "age_min": 165.3,
+        "age_max": 161.5,
+        "os": {
+            "femur": 498,
+            "fibula": 467,
+            "humerus": 231,
+            "pubis": null,
+            "radius": 225,
+            "scapula": 299,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Falcarius utahensis",
+        "classification": "Therizinosauria",
+        "nombre_specimens": 5,
+        "age_min": 143.1,
+        "age_max": 132.6,
+        "os": {
+            "femur": 483.5,
+            "fibula": 350,
+            "humerus": 255,
+            "pubis": null,
+            "radius": 184,
+            "scapula": 262,
+            "skull": 258
+        }
+    },
+    {
+        "nom": "Fenestrosaurus philoceratops",
+        "classification": "Maniraptora",
+        "nombre_specimens": 5,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 185,
+            "pubis": null,
+            "radius": 163,
+            "scapula": 231,
+            "skull": 179
+        }
+    },
+    {
+        "nom": "Ferganasaurus verzilini",
+        "classification": "Sauropoda",
+        "nombre_specimens": 6,
+        "age_min": 165.3,
+        "age_max": 161.5,
+        "os": {
+            "femur": 1080,
+            "fibula": 740,
+            "humerus": 890,
+            "pubis": null,
+            "radius": 580,
+            "scapula": 773.6785714285714,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Fukuiraptor kitadaniensis",
+        "classification": "Coelurosauria",
+        "nombre_specimens": 11,
+        "age_min": 121.4,
+        "age_max": 113.2,
+        "os": {
+            "femur": 116.58125000000001,
+            "fibula": 237.45,
+            "humerus": 193,
+            "pubis": null,
+            "radius": 37.1,
+            "scapula": 35.55,
+            "skull": 101.75
+        }
+    },
+    {
+        "nom": "Futalognkosaurus dukei",
+        "classification": "Macronaria",
+        "nombre_specimens": 1,
+        "age_min": 93.9,
+        "age_max": 85.7,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 0.137,
+            "radius": 643.4857142857143,
+            "scapula": 948.8214285714286,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Galeamopus hayi",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 8,
+        "age_min": 154.8,
+        "age_max": 143.1,
+        "os": {
+            "femur": 755,
+            "fibula": 456.3333333333333,
+            "humerus": 521,
+            "pubis": 1190,
+            "radius": 338.8333333333333,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Gallimimus bullatus",
+        "classification": "Maniraptora",
+        "nombre_specimens": 26,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 421.5,
+            "fibula": 450.6,
+            "humerus": 530,
+            "pubis": null,
+            "radius": 226,
+            "scapula": 450,
+            "skull": 211.66666666666666
+        }
+    },
+    {
+        "nom": "Garudimimus brevipes",
+        "classification": "Ornithomimosauria",
+        "nombre_specimens": 4,
+        "age_min": 100.5,
+        "age_max": 83.6,
+        "os": {
+            "femur": 371,
+            "fibula": 360,
+            "humerus": 408.39375,
+            "pubis": null,
+            "radius": 286.49375,
+            "scapula": 522.1333333333333,
+            "skull": 252.2
+        }
+    },
+    {
+        "nom": "Gasosaurus constructus",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 3,
+        "age_min": 170.9,
+        "age_max": 154.8,
+        "os": {
+            "femur": 425,
+            "fibula": 591.5,
+            "humerus": 237,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Gastonia burgei",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 6,
+        "age_min": 137.05,
+        "age_max": 132.6,
+        "os": {
+            "femur": 395,
+            "fibula": 267.72222222222223,
+            "humerus": 230,
+            "pubis": null,
+            "radius": 193.5,
+            "scapula": 340,
+            "skull": 280
+        }
+    },
+    {
+        "nom": "Genusaurus sisteronis",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 1,
+        "age_min": 110.1,
+        "age_max": 106.3,
+        "os": {
+            "femur": 380,
+            "fibula": 447,
+            "humerus": 208.83333333333334,
+            "pubis": null,
+            "radius": 58.25,
+            "scapula": 498.75,
+            "skull": 596.75
+        }
+    },
+    {
+        "nom": "Giganotosaurus carolinii",
+        "classification": "Allosauroidea",
+        "nombre_specimens": 2,
+        "age_min": 100.5,
+        "age_max": 93.9,
+        "os": {
+            "femur": 1430,
+            "fibula": 359.5,
+            "humerus": 341.6875,
+            "pubis": null,
+            "radius": 128.165,
+            "scapula": 614.625,
+            "skull": 1530
+        }
+    },
+    {
+        "nom": "Gigantoraptor erlianensis",
+        "classification": "Maniraptora",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 726,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Giraffatitan brancai",
+        "classification": "Macronaria",
+        "nombre_specimens": 29,
+        "age_min": 149.2,
+        "age_max": 149.2,
+        "os": {
+            "femur": 1740,
+            "fibula": 1080,
+            "humerus": 1957.5,
+            "pubis": 1033.3333333333333,
+            "radius": 1260,
+            "scapula": 1731,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Gobisaurus domoculus",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 4,
+        "age_min": 121.4,
+        "age_max": 100.5,
+        "os": {
+            "femur": 302.5,
+            "fibula": 120,
+            "humerus": 279.56666666666666,
+            "pubis": null,
+            "radius": 193.5,
+            "scapula": 317.73809523809524,
+            "skull": 455
+        }
+    },
+    {
+        "nom": "Gojirasaurus quayi",
+        "classification": "Coelophysoidea",
+        "nombre_specimens": 1,
+        "age_min": 227.3,
+        "age_max": 205.7,
+        "os": {
+            "femur": 242.5,
+            "fibula": null,
+            "humerus": null,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Gorgosaurus libratus",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 15,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 864.1166666666667,
+            "fibula": 680,
+            "humerus": 264.425,
+            "pubis": null,
+            "radius": 127.7875,
+            "scapula": 620,
+            "skull": 678
+        }
+    },
+    {
+        "nom": "Goyocephale lattimorei",
+        "classification": "Pachycephalosauria",
+        "nombre_specimens": 4,
+        "age_min": 85.7,
+        "age_max": 66,
+        "os": {
+            "femur": 121.6,
+            "fibula": 18.8,
+            "humerus": 113,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": 258
+        }
+    },
+    {
+        "nom": "Graciliraptor lujiatunensis",
+        "classification": "Paraves",
+        "nombre_specimens": 5,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 211.175,
+            "fibula": 167,
+            "humerus": 106,
+            "pubis": null,
+            "radius": 87,
+            "scapula": 64.4,
+            "skull": 190
+        }
+    },
+    {
+        "nom": "Gryposaurus",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 625,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Gryposaurus latidens",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 772.2857142857143,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 680,
+            "scapula": 790,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Gryposaurus monumentensis",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 772.2857142857143,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 760
+        }
+    },
+    {
+        "nom": "Gryposaurus notabilis",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 4,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 772.2857142857143,
+            "humerus": 422,
+            "pubis": null,
+            "radius": 347.5,
+            "scapula": 507.7142857142857,
+            "skull": 750
+        }
+    },
+    {
+        "nom": "Guaibasaurus candelariensis",
+        "classification": "Sauropoda",
+        "nombre_specimens": 3,
+        "age_min": 227.3,
+        "age_max": 205.7,
+        "os": {
+            "femur": 270,
+            "fibula": 467.57142857142856,
+            "humerus": 145,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 773.6785714285714,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Guanlong wucaii",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 6,
+        "age_min": 161.5,
+        "age_max": 154.8,
+        "os": {
+            "femur": 416,
+            "fibula": 591.5,
+            "humerus": 263,
+            "pubis": null,
+            "radius": 178,
+            "scapula": 552.375,
+            "skull": 363
+        }
+    },
+    {
+        "nom": "Hadrosauridae",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 2,
+        "age_min": 72.2,
+        "age_max": 72.2,
+        "os": {
+            "femur": 422.5,
+            "fibula": 772.2857142857143,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Hadrosaurus foulkii",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 597.5,
+            "fibula": 772.2857142857143,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Haplocanthosaurus delfsi",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 2,
+        "age_min": 152.21,
+        "age_max": 145.06,
+        "os": {
+            "femur": 1745,
+            "fibula": 729.6666666666667,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Haplocanthosaurus priscus",
+        "classification": "Diplodocoidea",
+        "nombre_specimens": 2,
+        "age_min": 152.21,
+        "age_max": 145.06,
+        "os": {
+            "femur": 1275,
+            "fibula": 729.6666666666667,
+            "humerus": 726.2333333333332,
+            "pubis": 1190,
+            "radius": 521.2619047619048,
+            "scapula": 951.1666666666667,
+            "skull": 225.4
+        }
+    },
+    {
+        "nom": "Harpymimus okladnikovi",
+        "classification": "Ornithomimosauria",
+        "nombre_specimens": 5,
+        "age_min": 110.1,
+        "age_max": 100.5,
+        "os": {
+            "femur": 281.875,
+            "fibula": 294,
+            "humerus": 294,
+            "pubis": null,
+            "radius": 217,
+            "scapula": 303,
+            "skull": 262
+        }
+    },
+    {
+        "nom": "Haya griva",
+        "classification": "Ornithischia",
+        "nombre_specimens": 7,
+        "age_min": 85.7,
+        "age_max": 72.2,
+        "os": {
+            "femur": 131,
+            "fibula": 103.94666666666667,
+            "humerus": 86,
+            "pubis": null,
+            "radius": 66,
+            "scapula": 91,
+            "skull": 93
+        }
+    },
+    {
+        "nom": "Heterodontosaurus tucki",
+        "classification": "Ornithischia",
+        "nombre_specimens": 5,
+        "age_min": 201.4,
+        "age_max": 192.9,
+        "os": {
+            "femur": 112,
+            "fibula": 103.94666666666667,
+            "humerus": 83,
+            "pubis": null,
+            "radius": 58,
+            "scapula": 65.24166666666667,
+            "skull": 115
+        }
+    },
+    {
+        "nom": "Hexinlusaurus multidens",
+        "classification": "Ornithischia",
+        "nombre_specimens": 15,
+        "age_min": 170.9,
+        "age_max": 154.8,
+        "os": {
+            "femur": 97.75,
+            "fibula": 132.73333333333332,
+            "humerus": 67.0625,
+            "pubis": null,
+            "radius": 69.7,
+            "scapula": 72.875,
+            "skull": 63
+        }
+    },
+    {
+        "nom": "Heyuannia huangi",
+        "classification": "Maniraptora",
+        "nombre_specimens": 5,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 255,
+            "fibula": 290.7,
+            "humerus": 138,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 175,
+            "skull": 150
+        }
+    },
+    {
+        "nom": "Heyuannia yanshini",
+        "classification": "Maniraptora",
+        "nombre_specimens": 4,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 228,
+            "fibula": 290.7,
+            "humerus": 132,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 145,
+            "skull": 149.96666666666667
+        }
+    },
+    {
+        "nom": "Hippodraco scutodens",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 2,
+        "age_min": 137.05,
+        "age_max": 132.6,
+        "os": {
+            "femur": 453.5958333333333,
+            "fibula": 418.5,
+            "humerus": 323,
+            "pubis": null,
+            "radius": 169.83333333333334,
+            "scapula": 455,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Homalocephale calathocercos",
+        "classification": "Pachycephalosauria",
+        "nombre_specimens": 5,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 121.6,
+            "fibula": 18.8,
+            "humerus": 113,
+            "pubis": null,
+            "radius": null,
+            "scapula": null,
+            "skull": 258
+        }
+    },
+    {
+        "nom": "Huanghetitan liujiaxiaensis",
+        "classification": "Sauropoda",
+        "nombre_specimens": 1,
+        "age_min": 125.77,
+        "age_max": 113.2,
+        "os": {
+            "femur": 758.7878787878788,
+            "fibula": 467.57142857142856,
+            "humerus": 650.2,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 765,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Huaxiagnathus orientalis",
+        "classification": "Coelurosauria",
+        "nombre_specimens": 6,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 163,
+            "fibula": 237.45,
+            "humerus": 90,
+            "pubis": null,
+            "radius": 51,
+            "scapula": 35.55,
+            "skull": 165
+        }
+    },
+    {
+        "nom": "Hungarosaurus tormai",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 5,
+        "age_min": 85.7,
+        "age_max": 83.6,
+        "os": {
+            "femur": 470,
+            "fibula": 350,
+            "humerus": 318.5,
+            "pubis": null,
+            "radius": 265,
+            "scapula": 320,
+            "skull": 454.5
+        }
+    },
+    {
+        "nom": "Hylaeosaurus armatus",
+        "classification": "Ankylosauria",
+        "nombre_specimens": 6,
+        "age_min": 125.77,
+        "age_max": 132.6,
+        "os": {
+            "femur": 433.5982142857143,
+            "fibula": 267.72222222222223,
+            "humerus": 279.56666666666666,
+            "pubis": null,
+            "radius": 193.5,
+            "scapula": 296.6666666666667,
+            "skull": 454.5
+        }
+    },
+    {
+        "nom": "Hypacrosaurus altispinus",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 4,
+        "age_min": 83.6,
+        "age_max": 66,
+        "os": {
+            "femur": 1080,
+            "fibula": 430,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Hypacrosaurus stebingeri",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 3,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 522,
+            "fibula": 337.3,
+            "humerus": 295,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Hypsilophodon foxii",
+        "classification": "Ornithischia",
+        "nombre_specimens": 2,
+        "age_min": 125.77,
+        "age_max": 121.4,
+        "os": {
+            "femur": 151.5,
+            "fibula": 103.94666666666667,
+            "humerus": 64.91875,
+            "pubis": null,
+            "radius": 55.05555555555555,
+            "scapula": 65.24166666666667,
+            "skull": 85.83333333333333
+        }
+    },
+    {
+        "nom": "Iguanacolossus fortis",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 1,
+        "age_min": 139.1,
+        "age_max": 132.6,
+        "os": {
+            "femur": 453.5958333333333,
+            "fibula": 630,
+            "humerus": 235.03125,
+            "pubis": null,
+            "radius": 169.83333333333334,
+            "scapula": 425.72916666666663,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Iguanodon",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 5,
+        "age_min": 132.6,
+        "age_max": 119.57,
+        "os": {
+            "femur": 150,
+            "fibula": 418.5,
+            "humerus": 57,
+            "pubis": null,
+            "radius": 44,
+            "scapula": 425.72916666666663,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Iguanodon bernissartensis",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 15,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 678,
+            "fibula": 418.5,
+            "humerus": 466.25,
+            "pubis": null,
+            "radius": 361.6666666666667,
+            "scapula": 480.25,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Iguanodontidae",
+        "classification": "Iguanodontia",
+        "nombre_specimens": 1,
+        "age_min": 113.2,
+        "age_max": 100.5,
+        "os": {
+            "femur": 945,
+            "fibula": 418.5,
+            "humerus": 235.03125,
+            "pubis": null,
+            "radius": 169.83333333333334,
+            "scapula": 425.72916666666663,
+            "skull": 600
+        }
+    },
+    {
+        "nom": "Incisivosaurus gauthieri",
+        "classification": "Maniraptora",
+        "nombre_specimens": 1,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 311.8454545454546,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 100
+        }
+    },
+    {
+        "nom": "Isanosaurus attavipachi",
+        "classification": "Sauropoda",
+        "nombre_specimens": 1,
+        "age_min": 192.9,
+        "age_max": 174.7,
+        "os": {
+            "femur": 760,
+            "fibula": 467.57142857142856,
+            "humerus": 650.2,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 773.6785714285714,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Isisaurus colberti",
+        "classification": "Sauropoda",
+        "nombre_specimens": 4,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 758.7878787878788,
+            "fibula": 467.57142857142856,
+            "humerus": 845,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 1080,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Jeholosaurus shangyuanensis",
+        "classification": "Ornithischia",
+        "nombre_specimens": 3,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 90,
+            "fibula": 107,
+            "humerus": 64.91875,
+            "pubis": null,
+            "radius": 55.05555555555555,
+            "scapula": 65.24166666666667,
+            "skull": 63
+        }
+    },
+    {
+        "nom": "Jiangshanosaurus lixianensis",
+        "classification": "Macronaria",
+        "nombre_specimens": 2,
+        "age_min": 100.5,
+        "age_max": 89.8,
+        "os": {
+            "femur": 1138.2222222222224,
+            "fibula": 663.25,
+            "humerus": 969.0089743589743,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 665,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Jingshanosaurus xinwaensis",
+        "classification": "Sauropoda",
+        "nombre_specimens": 1,
+        "age_min": 201.4,
+        "age_max": 199.5,
+        "os": {
+            "femur": 758.7878787878788,
+            "fibula": 467.57142857142856,
+            "humerus": 650.2,
+            "pubis": null,
+            "radius": 437.2142857142857,
+            "scapula": 773.6785714285714,
+            "skull": 230
+        }
+    },
+    {
+        "nom": "Jinzhousaurus yangi",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 9,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 625,
+            "fibula": 772.2857142857143,
+            "humerus": 239.25,
+            "pubis": null,
+            "radius": 149.5,
+            "scapula": 290,
+            "skull": 390
+        }
+    },
+    {
+        "nom": "Jobaria tiguidensis",
+        "classification": "Sauropoda",
+        "nombre_specimens": 5,
+        "age_min": 161.5,
+        "age_max": 143.1,
+        "os": {
+            "femur": 1800,
+            "fibula": 467.57142857142856,
+            "humerus": 1360,
+            "pubis": null,
+            "radius": 1040,
+            "scapula": 773.6785714285714,
+            "skull": 730
+        }
+    },
+    {
+        "nom": "Juratyrant langhami",
+        "classification": "Tyrannosauroidea",
+        "nombre_specimens": 2,
+        "age_min": 145.06,
+        "age_max": 143.1,
+        "os": {
+            "femur": 380,
+            "fibula": 591.5,
+            "humerus": 232.51093749999998,
+            "pubis": null,
+            "radius": 138.7575,
+            "scapula": 552.375,
+            "skull": 663.4166666666666
+        }
+    },
+    {
+        "nom": "Juravenator starki",
+        "classification": "Coelurosauria",
+        "nombre_specimens": 8,
+        "age_min": 152.21,
+        "age_max": 149.2,
+        "os": {
+            "femur": 52,
+            "fibula": 237.45,
+            "humerus": 27,
+            "pubis": null,
+            "radius": 19.3,
+            "scapula": 42,
+            "skull": 82
+        }
+    },
+    {
+        "nom": "Kazaklambia convincens",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 3,
+        "age_min": 89.8,
+        "age_max": 83.6,
+        "os": {
+            "femur": 560,
+            "fibula": 772.2857142857143,
+            "humerus": 330,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Kerberosaurus manakini",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 3,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 733.6717171717172,
+            "fibula": 772.2857142857143,
+            "humerus": 172,
+            "pubis": null,
+            "radius": 329,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Khaan mckennai",
+        "classification": "Maniraptora",
+        "nombre_specimens": 7,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 283.5,
+            "fibula": 290.7,
+            "humerus": 116,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 139,
+            "skull": 135
+        }
+    },
+    {
+        "nom": "Koreaceratops hwaseongensis",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 2,
+        "age_min": 113.2,
+        "age_max": 100.5,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Kotasaurus yamanpalliensis",
+        "classification": "Sauropoda",
+        "nombre_specimens": 7,
+        "age_min": 199.5,
+        "age_max": 184.2,
+        "os": {
+            "femur": 645,
+            "fibula": 467.57142857142856,
+            "humerus": 770,
+            "pubis": null,
+            "radius": 700,
+            "scapula": 1230,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Lambeosaurinae",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 4,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 1035,
+            "fibula": 935,
+            "humerus": 389.06111111111113,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Lambeosaurus lambei",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 4,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 829,
+            "fibula": 772.2857142857143,
+            "humerus": 305,
+            "pubis": null,
+            "radius": 433.1875,
+            "scapula": 507.7142857142857,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Lambeosaurus magnicristatus",
+        "classification": "Ornithopoda",
+        "nombre_specimens": 8,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 1077.5,
+            "fibula": 968,
+            "humerus": 504.3,
+            "pubis": null,
+            "radius": 615,
+            "scapula": 781,
+            "skull": 676.25
+        }
+    },
+    {
+        "nom": "Lamplughsaura dharmaramensis",
+        "classification": "Sauropoda",
+        "nombre_specimens": 10,
+        "age_min": 201.4,
+        "age_max": 192.9,
+        "os": {
+            "femur": 250.66666666666666,
+            "fibula": 270.5,
+            "humerus": 263.75,
+            "pubis": null,
+            "radius": 167.5,
+            "scapula": 305.5,
+            "skull": 480
+        }
+    },
+    {
+        "nom": "Latenivenatrix mcmasterae",
+        "classification": "Tetanurae",
+        "nombre_specimens": 1,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 454,
+            "fibula": 467,
+            "humerus": 357,
+            "pubis": null,
+            "radius": 225,
+            "scapula": 299,
+            "skull": 697.5
+        }
+    },
+    {
+        "nom": "Leptoceratops gracilis",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 16,
+        "age_min": 72.2,
+        "age_max": 66,
+        "os": {
+            "femur": 255.5,
+            "fibula": 255,
+            "humerus": 290,
+            "pubis": null,
+            "radius": 167,
+            "scapula": 425,
+            "skull": 273.7857142857143
+        }
+    },
+    {
+        "nom": "Leshansaurus qianweiensis",
+        "classification": "Tetanurae",
+        "nombre_specimens": 3,
+        "age_min": 168.2,
+        "age_max": 161.5,
+        "os": {
+            "femur": 410,
+            "fibula": 467,
+            "humerus": 357,
+            "pubis": null,
+            "radius": 225,
+            "scapula": 299,
+            "skull": 697.5
+        }
+    },
+    {
+        "nom": "Lesothosaurus diagnosticus",
+        "classification": "Ornithischia",
+        "nombre_specimens": 23,
+        "age_min": 201.4,
+        "age_max": 192.9,
+        "os": {
+            "femur": 151,
+            "fibula": 123,
+            "humerus": 63,
+            "pubis": null,
+            "radius": 48.333333333333336,
+            "scapula": 83.5,
+            "skull": 71
+        }
+    },
+    {
+        "nom": "Liaoceratops yanzigouensis",
+        "classification": "Ceratopsia",
+        "nombre_specimens": 1,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 498.4666666666667,
+            "fibula": 337.3,
+            "humerus": 298.43333333333334,
+            "pubis": null,
+            "radius": 175.16666666666666,
+            "scapula": 256.625,
+            "skull": 97
+        }
+    },
+    {
+        "nom": "Ligabueino andesi",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 1,
+        "age_min": 125.77,
+        "age_max": 119.57,
+        "os": {
+            "femur": 62,
+            "fibula": 447,
+            "humerus": 208.83333333333334,
+            "pubis": null,
+            "radius": 58.25,
+            "scapula": 498.75,
+            "skull": 596.75
+        }
+    },
+    {
+        "nom": "Ligabuesaurus leanzai",
+        "classification": "Macronaria",
+        "nombre_specimens": 5,
+        "age_min": 113.2,
+        "age_max": 110.1,
+        "os": {
+            "femur": 955,
+            "fibula": 582.5,
+            "humerus": 835,
+            "pubis": 671.1567777777777,
+            "radius": 643.4857142857143,
+            "scapula": 825,
+            "skull": 456
+        }
+    },
+    {
+        "nom": "Liliensternus liliensterni",
+        "classification": "Theropoda",
+        "nombre_specimens": 6,
+        "age_min": 227.3,
+        "age_max": 205.7,
+        "os": {
+            "femur": 449,
+            "fibula": null,
+            "humerus": 214,
+            "pubis": null,
+            "radius": 151,
+            "scapula": 240,
+            "skull": null
+        }
+    },
+    {
+        "nom": "Limusaurus inextricabilis",
+        "classification": "Ceratosauria",
+        "nombre_specimens": 6,
+        "age_min": 161.5,
+        "age_max": 154.8,
+        "os": {
+            "femur": 208,
+            "fibula": 447,
+            "humerus": 80,
+            "pubis": null,
+            "radius": 40,
+            "scapula": 95,
+            "skull": 105
+        }
+    },
+    {
+        "nom": "Linhenykus monodactylus",
+        "classification": "Maniraptora",
+        "nombre_specimens": 2,
+        "age_min": 83.6,
+        "age_max": 72.2,
+        "os": {
+            "femur": 70,
+            "fibula": 290.7,
+            "humerus": 180.23166666666665,
+            "pubis": null,
+            "radius": 161.69166666666666,
+            "scapula": 202.42857142857142,
+            "skull": 149.96666666666667
+        }
+    }
+]

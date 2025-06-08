@@ -3,7 +3,7 @@ import * as R from 'ramda';
 import promptSync from 'prompt-sync';
 const prompt = promptSync();
 
-console.log("quoi");
+
 // Chargement des données
 import { measurements, occurrences, specimens } from './data.js';
 
